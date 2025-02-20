@@ -17,3 +17,5 @@ Clone este repositório
 git clone https://github.com/Nayaraguimaraes2809/amigoSecreto2.git
 cd amigo-secreto
 Abra o arquivo index.html no navegador Adicione nomes e clique em "Adicionar" Clique em "Sortear Amigo" para ver o resultado 📌 Melhorias Futuras Evitar que um participante tire a si mesmo Enviar o nome sorteado por e-mail Melhorar o design com animações 📌 Licença: MIT 💡 Contribuições são bem-vindas! 🚀
+
+ok
